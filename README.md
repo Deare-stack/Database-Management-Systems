@@ -1,7 +1,10 @@
 # Database-Management-Systems
 - Author:
+
 Deare Abudushalamu
+
 - Overview:
+  
 This repository contains my homework assignments and projects related to the Database Management Systems course. It includes solutions for various database-related tasks, such as SQL queries, database design, NoSQL databases, and implementation of different concepts related to data management systems.
 
 The repository showcases my work with both relational and non-relational databases, including MySQL for SQL-based tasks and MongoDB for NoSQL tasks. Each folder contains detailed instructions and solutions for individual homework assignments.
